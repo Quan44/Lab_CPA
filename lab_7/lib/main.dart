@@ -55,7 +55,8 @@ class _StoryPageState extends State<StoryPage> {
                     });
                   },
                   style: TextButton.styleFrom(
-                    foregroundColor: Colors.red,
+                    foregroundColor: Colors.white,
+                    backgroundColor: Colors.red,
                   ),
                   child: Text(
                     storyBrain.getChoice1(),
@@ -77,7 +78,8 @@ class _StoryPageState extends State<StoryPage> {
                       });
                     },
                     style: TextButton.styleFrom(
-                      foregroundColor: Colors.blue,
+                      foregroundColor: Colors.white,
+                      backgroundColor: Colors.blue,
                     ),
                     child: Text(
                       storyBrain.getChoice2(),
