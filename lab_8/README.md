@@ -18,9 +18,9 @@ Users can see their BMI index after entering calculation parameters
 
 ## 📱 Screenshots
 
-![image alt](https://github.com/Quan44/Lab_CPA/blob/9967be30d1ab4392cbf38d480615f53b825f31ff/lab_9/screenshots/Screenshots2.png)
+![image alt](https://github.com/Quan44/Lab_CPA/blob/4aff9342749a7afe1303939f5bd49b132355c6c4/lab_8/screenshots/Screenshots1.png)
 
-![image alt](https://github.com/Quan44/Lab_CPA/blob/9967be30d1ab4392cbf38d480615f53b825f31ff/lab_9/screenshots/Screenshots1.png)
+![image alt](https://github.com/Quan44/Lab_CPA/blob/4aff9342749a7afe1303939f5bd49b132355c6c4/lab_8/screenshots/Screenshots2.png)
 
 ## 🦴 Getting Started
 
