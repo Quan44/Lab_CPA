@@ -1,16 +1,42 @@
-# lab_9
+# Clima App
 
-A new Flutter project.
+Clima App is an application developed using Flutter and calls the current weather API of WeatherAPI
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+Users can enter a city name to see current weather information:
+- Humidity.
+- Wind Speed.
+- UV
+- Percipitation
+- Local Time
+- Local Date
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- cupertino_icons: ^1.0.2
+- http: ^1.1.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+## 🦴 Getting Started
+
+### 1. Clone the Repository
+```bash
+https://github.com/Quan44/Lotus_Food.git
+```
+### 2. Install Dependencies
+```bash
+cd lotus_food
+flutter pub get
+```
+### 3. Run the App
+```bash
+flutter run
+```
+
+
+
+
+
