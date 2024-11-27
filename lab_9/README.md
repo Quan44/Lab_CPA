@@ -20,6 +20,10 @@ Users can enter a city name to see current weather information:
 
 ## 📱 Screenshots
 
+![image alt](https://github.com/Quan44/Lab_CPA/blob/9967be30d1ab4392cbf38d480615f53b825f31ff/lab_9/screenshots/Screenshots2.png)
+
+![image alt](https://github.com/Quan44/Lab_CPA/blob/9967be30d1ab4392cbf38d480615f53b825f31ff/lab_9/screenshots/Screenshots1.png)
+
 ## 🦴 Getting Started
 
 ### 1. Clone the Repository
