@@ -1,16 +1,39 @@
-# lab_8
+# BMI Calculator
 
-A new Flutter project.
+BMI Calculator application is an application developed using Flutter with the purpose of calculating BMI using parameters such as gender, height, weight.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+Users can see their BMI index after entering calculation parameters
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- cupertino_icons:
+- flutter_3d_choice_chip:
+- swipeable_button_view:
+- page_transition:
+- pretty_gauge:
+- share_plus:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+![image alt](https://github.com/Quan44/Lab_CPA/blob/9967be30d1ab4392cbf38d480615f53b825f31ff/lab_9/screenshots/Screenshots2.png)
+
+![image alt](https://github.com/Quan44/Lab_CPA/blob/9967be30d1ab4392cbf38d480615f53b825f31ff/lab_9/screenshots/Screenshots1.png)
+
+## 🦴 Getting Started
+
+### 1. Clone the Repository
+```bash
+https://github.com/Quan44/Lab_CPA.git
+```
+### 2. Install Dependencies
+```bash
+cd lab_8
+flutter pub get
+```
+### 3. Run the App
+```bash
+flutter run
+```
