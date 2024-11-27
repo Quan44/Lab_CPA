@@ -24,11 +24,11 @@ Users can enter a city name to see current weather information:
 
 ### 1. Clone the Repository
 ```bash
-https://github.com/Quan44/Lotus_Food.git
+https://github.com/Quan44/Lab_CPA.git
 ```
 ### 2. Install Dependencies
 ```bash
-cd lotus_food
+cd lab_9
 flutter pub get
 ```
 ### 3. Run the App
